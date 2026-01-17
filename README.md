@@ -1,4 +1,5 @@
 StudyBuddy - Spaced Repetition Tool 🧠
+
 StudyBuddy is a simple CLI-based tool I built to help with long-term memorization. It uses the SM-2 (SuperMemo-2) algorithm to calculate exactly when you should review your flashcards based on how well you know the material.
 
 Why I built this
